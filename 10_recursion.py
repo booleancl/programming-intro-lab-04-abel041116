@@ -25,3 +25,10 @@ def super_sum(number):
         return number + super_sum(number - 1)
 
 print(super_sum(3))
+
+# Recursion infinita, sin condiciones de salida
+# para nada util, pero entretenido
+def infinite():
+  infinite()
+
+infinite()

@@ -1,0 +1,3 @@
+repaso de como leer
+archivos con python.
+manipular archivo 
